@@ -6,7 +6,7 @@ Predicting whether an NJ Transit train will be delayed (>5 minutes) using time a
 
 ## Problem
 
-Commuters want to know one simple thing: *will my train be late?* This project builds a binary classifier that predicts whether a scheduled NJ Transit train will be delayed by more than 5 minutes, using only information available ahead of time — hour, day of week, line, and train type.
+Commuters want to know one simple thing: *will my train be late?* This project builds a binary classifier that predicts whether a scheduled NJ Transit train will be delayed by more than 5 minutes, using only information available ahead of time - hour, day of week, line, and train type.
 
 ## Data
 
